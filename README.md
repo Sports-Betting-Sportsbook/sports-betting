@@ -64,7 +64,7 @@ To get a local copy up and running, follow these steps:
 1. **Navigate Into The Directory**:
 
    ```bash
-   cd boibook
+   cd sports-betting
    ```
 
 2. **Install Dependencies**:
